@@ -1,0 +1,1 @@
+"Simulated Heart Rate Tracker" generates random heart rate readings (50-120 BPM), timestamps them, and logs them in heart_rate_log.txt. It analyzes each reading as Low (Bradycardia), Normal, or High (Tachycardia) and displays the result in real-time. The program runs continuously, updating every second, simulating real-time heart rate monitoring.
